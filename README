@@ -1,16 +1,1 @@
-# Murogi Trading Bot
 
-Deploy to Render:
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
-
-## Setup:
-1. Fork this repo
-2. Click "Deploy to Render" above
-3. Connect GitHub
-4. Set env: `none`
-5. Start command: `gunicorn app:app`
-
-## Features:
-- Deriv OAuth login
-- Shows balance
-- Affiliate: KA5MGSJVX3X7
